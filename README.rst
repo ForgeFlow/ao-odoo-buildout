@@ -1,4 +1,4 @@
-Alpeh OCA 10 buildout
+Aleph OCA 10 buildout
 =====================
 
 This repository contains a buildout. Prepare it by running::
