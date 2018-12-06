@@ -14,3 +14,4 @@ etc/
 *.egg-info
 dist
 .tox
+/env
