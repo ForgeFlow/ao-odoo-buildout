@@ -17,3 +17,5 @@ dist
 /env
 prod.cfg
 test.cfg
+.env
+.vscode
