@@ -19,3 +19,4 @@ prod.cfg
 test.cfg
 .env
 .vscode
+local.cfg
