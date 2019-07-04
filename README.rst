@@ -1,4 +1,4 @@
-AO OCA 11 buildout
+AO OCA 12 buildout
 ==================
 
 This repository contains a buildout. Prepare it by running::

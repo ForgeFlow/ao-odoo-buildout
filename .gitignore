@@ -14,3 +14,9 @@ etc/
 *.egg-info
 dist
 .tox
+/env
+prod.cfg
+test.cfg
+.env
+.vscode
+local.cfg
