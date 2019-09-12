@@ -55,3 +55,4 @@ six==1.10.0
 taxjar==1.6.0
 tornado==5.1.1
 vcrpy==2.0.1
+openupgradelib
